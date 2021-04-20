@@ -47,7 +47,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.12.0",
   "appid": "wx6f20afff0f04713a",
-  "projectname": "minicode-1",
+  "projectname": "tuyaapp",
   "debugOptions": {
     "hidedInDevtools": []
   },
